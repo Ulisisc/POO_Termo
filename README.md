@@ -11,7 +11,12 @@ instanciación de objetos en un caso sencillo (un termo)
 - **Métodos: llenar(), beber()**
 - **Instanciación: mi_termo**
   
-##ejecución
-C:\Users\ulisi\OneDrive\Desktop>python POO_Termo.py
+## Ejecución
+Para correr el programa, escribe en la terminal:
+
+```bash
+python POO_Termo.py
+
+## Ejemplo de salida
 El termo se llenó con 400 ml.
 Bebiste 150 ml. Quedan 250 ml.
